@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle totoagung",
+        "command": "totoagung:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "totoagung",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "totoagung:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

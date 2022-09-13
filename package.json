@@ -1,0 +1,23 @@
+{
+  "name": "totoagung",
+  "main": "./lib/totoagung",
+  "version": "0.0.0",
+  "description": "Totoagung sebagai situs judi slot gacor online terpercaya di Indonesia yang menyediakan beragam jenis slot gacor terbaik dengan bonus kemenangan jackpot maxwin terbesar hingga ratusan juta rupiah.",
+  "keywords": [
+    "totoagung",
+    "totoagung link alternatif",
+    "totoagung slot",
+    "totoagung login",
+    "toto agung"
+  ],
+  "activationCommands": {
+    "atom-workspace": "totoagung:toggle"
+  },
+  "repository": "https://github.com/mataharicerah/totoagung",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
